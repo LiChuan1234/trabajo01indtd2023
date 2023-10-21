@@ -1,5 +1,9 @@
 ##### EJERCICIO 1
 
+# Se pide resolver la siguiente tabla aplicando los criterios de decision bajo 
+# incertidumbre tanto en el caso favorable (beneficios), como en el caso desfavorable 
+# (costos).
+
 # tabla1 = crea.tablaX(c(1, 4, 3, 5,
 #                        2, 1, 1, 3,
 #                        5, 5, 2, 1,
